@@ -1,0 +1,29 @@
+{
+  "Hero": {
+    "title": "Good things,",
+    "titleHighlight": "found here.",
+    "subtitle": "Everyday essentials, clever upgrades, and a few unexpected favorites. Take a look around.",
+    "shopNow": "Shop Now",
+    "viewCollections": "View Collections"
+  },
+  "Home": {
+    "pageTitle": "Your One-Stop Shop",
+    "description": "Discover high-quality products at competitive prices. Shop now for the best deals on electronics, fashion, home goods, and more.",
+    "ogDescription": "Discover high-quality products at competitive prices. Shop now for the best deals.",
+    "whyShopWithUs": "Why Shop With Us",
+    "features": {
+      "highQuality": {
+        "title": "High Quality",
+        "description": "Premium products carefully selected for you"
+      },
+      "bestPrices": {
+        "title": "Best Prices",
+        "description": "Competitive pricing on all our products"
+      },
+      "fastDelivery": {
+        "title": "Fast Delivery",
+        "description": "Quick and reliable shipping worldwide"
+      }
+    }
+  }
+}
